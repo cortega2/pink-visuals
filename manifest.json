@@ -1,0 +1,14 @@
+{
+  "name": "Pink Visuals",
+  "description": "Sound Visualizer",
+  "version": "0.0.1",
+  "permissions": [
+    "tabs",
+    "tabCapture"
+  ],
+  "browser_action": {
+    "default_title": "Pink Visuals",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
